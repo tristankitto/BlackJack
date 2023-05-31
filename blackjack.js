@@ -64,7 +64,7 @@ function startGame() {
 }
 
 function reset() {
-    location.reload();
+    window.location.reload();
 }
 
 function hit() {
